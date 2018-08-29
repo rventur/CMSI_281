@@ -21,9 +21,9 @@
 	       String h = "Hello";
 	       System.out.println(h + " World!");
    	       System.out.print("What is your name?: ");
-		   Scanner myInput = new Scanner( System.in );
-		   String inputName = myInput.nextLine();
-		   System.out.println(h + ", " + inputName);
+	       Scanner myInput = new Scanner( System.in );
+	       String inputName = myInput.nextLine();
+	       System.out.println(h + ", " + inputName);
 		   
        }
    }
