@@ -12,8 +12,8 @@
  *           -----  ----------  ------------  -----------------------------------------------------------
  *  @version 1.0.0  2018-09-13  Bob           To create exception when list is empty
  */
-public class EmptyListException extends Exception {
-    public EmptyListException() {
-        System.out.println("This is empty!, you need to inout something to work with!");
-    }
-}
+ public class EmptyListException extends Exception {
+     public EmptyListException() {
+         System.out.println("This is empty!, you need to inout something to work with!");
+     }
+ }
